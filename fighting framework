@@ -1,0 +1,8 @@
+Each unit has size, depth, length, speed.
+size and depth affects how long an army can survive.
+When size=0, the specific unit will enter the state of waiting for supplement
+When the truepoint is larger than depth in one turn, the size of the unit will be affected.
+Size: 1:extremely small   2:small   3:standard    4:large group   5.insanely large
+Depth:  1-3:Usually light armored unit;   4-5 Medium armor unit;    6-7 Tank;   8-10Usually naval ships
+Length: 1:No strategy   2:Basic fighting skill  3:experienced fighter/powerful weapon   4:Deadly weapon
+speed: 0:Usually a building   1:normal    2:fast    3:Insanely fast
